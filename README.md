@@ -1,5 +1,7 @@
 # Analytics Tracking Server
 
+*Forked from someone else's repo. A tailored version of this is currently being used to look for unique views. Feel free to share. 
+
 ## Setup
 
 1. `cp config_example.json config.json`
