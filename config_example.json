@@ -1,0 +1,13 @@
+{
+	"time_zone": "America/New_York" ,
+	"redis": {
+		"host": "localhost" ,
+		"port": "6379" ,
+		"db": 3 ,
+		"password": ""
+	} ,
+	"ip_blacklist": [
+		"1.2.3.4"
+	] ,
+	"ip_info_token": "asdf"
+}

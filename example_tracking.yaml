@@ -1,0 +1,5 @@
+host: "https://ta.example.org"
+uuids:
+  "Website-1": "914e2a36-a185-11ec-bfae-149d997d632b"
+  "Website-2": "8b68038a-a185-11ec-ad4b-149d997d632b"
+  "Website-3": "82a90104-a185-11ec-a2b0-149d997d632b"

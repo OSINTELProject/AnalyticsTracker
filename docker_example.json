@@ -1,0 +1,13 @@
+{
+	"time_zone": "America/New_York" ,
+	"redis": {
+		"host": "172.17.0.1" ,
+		"port": "6464" ,
+		"db": 3 ,
+		"password": "asdf"
+	} ,
+	"ip_blacklist": [
+		"1.2.3.4"
+	] ,
+	"ip_info_token": "asdf"
+}
